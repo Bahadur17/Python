@@ -1,1 +1,1 @@
-# Python
+The Python Diwali Sales Analysis project analyzes customer purchasing behavior and sales trends using Python. It involves data cleaning, exploratory data analysis (EDA), and visualizing insights using Pandas, Seaborn, and Matplotlib. Key findings include top-selling products, high-revenue customer segments, and the impact of discounts. The project helps optimize marketing strategies and improve business decisions during Diwali sales.
